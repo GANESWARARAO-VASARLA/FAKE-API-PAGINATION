@@ -6,7 +6,6 @@ function App(){
   return (
     
     <>
-    <h1>Passengers</h1>
     <div className='d-flex flex-column align-items-center'>
       <h5>Passengers</h5>
     </div>
